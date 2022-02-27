@@ -326,3 +326,42 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
+ #Viu
+  - DOMAIN-SUFFIX,gcpvuclip-a.akamaihd.net #Domain Streaming
+  - DOMAIN-SUFFIX,api.amplitude.com
+  - DOMAIN-SUFFIX,licensing.bitmovin.com
+  - DOMAIN-KEYWORD,vuclip-
+  - DOMAIN-KEYWORD,vuclipi-
+  - DOMAIN-KEYWORD,viu-
+  - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-SUFFIX,viuapi.io
+  - DOMAIN-SUFFIX,viuing.io
+ #Vidio
+  - DOMAIN-KEYWORD,-vidio-com #Keyword Streaming
+  - DOMAIN-KEYWORD,-vidio.akamaized.net
+  - DOMAIN-SUFFIX,vidio.com
+ #Sushiroll, Aplikasi berbayar tidak sempat torch
+  - DOMAIN-SUFFIX,sushiroll.co.id
+ #Genflix, Aplikasi berbayar tidak sempat torch
+  - DOMAIN-SUFFIX,genflix.co.id
+ #RCTI+
+  - DOMAIN-SUFFIX,fta.rctiplus.id #Domain Streaming
+  - DOMAIN-SUFFIX,rctiplus.com
+  - DOMAIN-SUFFIX,api-roov.mncdigital.com
+ #Iflix
+  - DOMAIN-SUFFIX,wetvinfo.com #Domain Streaming
+  - IP-CIDR,43.132.80.0/24,no-resolve #Domain Streaming
+  - IP-CIDR,43.132.81.0/24,no-resolve #Domain Streaming
+  - IP-CIDR,150.109.91.0/24,no-resolve #Domain Streaming
+  - IP-CIDR,103.160.155.0/24,no-resolve #Domain Streaming
+  - IP-CIDR,203.205.159.0/24,no-resolve #Domain Streaming
+  - IP-CIDR,211.152.129.0/24,no-resolve #Domain Streaming
+  - DOMAIN-SUFFIX,wnskg.qq.com
+  - DOMAIN-SUFFIX,puui.qpic.cn
+  - DOMAIN-SUFFIX,video.qq.com
+ #Disney+ Hotstar, Aplikasi berbayar tidak sempat torch
+  - DOMAIN-SUFFIX,hotstar.com
+ #MAXstream
+  - DOMAIN-KEYWORD,cdn-telkomsel-01 #Domain Streaming
+  - DOMAIN-SUFFIX,maxstream.tv
+  - DOMAIN-SUFFIX,telkomsel.co
