@@ -21,14 +21,14 @@ payload:
   - DOMAIN-SUFFIX,fbsbx.com
   - DOMAIN-SUFFIX,fbworkmail.com
   - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,m.me
+ # - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,messenger.com
-  - DOMAIN-SUFFIX,oculus.com
-  - DOMAIN-SUFFIX,oculuscdn.com
+ # - DOMAIN-SUFFIX,oculus.com
+ # - DOMAIN-SUFFIX,oculuscdn.com
   - DOMAIN-SUFFIX,readyatdawn.com
-  - DOMAIN-SUFFIX,rocksdb.org
-  - DOMAIN-SUFFIX,whatsapp.com
-  - DOMAIN-SUFFIX,whatsapp.net
+ # - DOMAIN-SUFFIX,rocksdb.org
+ # - DOMAIN-SUFFIX,whatsapp.com
+ # - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-KEYWORD,.facebook.
   # > Telegram
   - DOMAIN-SUFFIX,legra.ph
