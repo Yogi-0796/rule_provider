@@ -1,0 +1,7 @@
+payload:
+#AppMytelkomsel
+  - DOMAIN-SUFFIX,telkomsel.com
+  - DOMAIN-SUFFIX,my.telkomsel.com
+  - DOMAIN-KEYWORD,telkomsel.com
+  - PROCESS-NAME,com.telkomsel.telkomselcm
+  - PROCESS-NAME,com.myorbit
