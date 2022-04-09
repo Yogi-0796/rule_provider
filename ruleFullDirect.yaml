@@ -21,24 +21,18 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,tiktokcdn-
 # FreeFire
-  - DOMAIN-KEYWORD,freefire
-  - DOMAIN-SUFFIX,garena.com
-  - DOMAIN-SUFFIX,ff.garena.com
+  - DOMAIN-SUFFIX,version.common.freefiremobile.com
+  - DOMAIN-SUFFIX,csoversea.castle.freefiremobile.com
+  - DOMAIN-SUFFIX,client.common.freefiremobile.com
+  - DOMAIN-SUFFIX,d.network.freefiremobile.com
   - DOMAIN-SUFFIX,freefiremobile-a.akamaihd.net
-  - DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
-  - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
-  - DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
-  - DOMAIN-SUFFIX,garena.co.id
-  - DOMAIN-SUFFIX,garena.co.th
-  - DOMAIN-SUFFIX,garena.live
-  - DOMAIN-SUFFIX,garena.my
-  - DOMAIN-SUFFIX,garena.ph
-  - DOMAIN-SUFFIX,garena.sg
-  - DOMAIN-SUFFIX,garena.tv
-  - DOMAIN-SUFFIX,garena.tw
-  - DOMAIN-SUFFIX,garena.vn
-  - DOMAIN-SUFFIX,garenanow.com
-  - DOMAIN-SUFFIX,seagroup.com
+  - DOMAIN-SUFFIX,id.event.freefiremobile.com
+  - DOMAIN-SUFFIX,dl.wsu.freefiremobile.com
+  - DOMAIN-SUFFIX,login.common.freefiremobile.com
+  - DOMAIN-SUFFIX,bling2.midasplayer.com
+  - DOMAIN-SUFFIX,dl.castle.freefiremobile.com
+  - DOMAIN-SUFFIX,ff.garena.com
+  - DOMAIN-SUFFIX,garena.com
 # Lifeafter
   - DOMAIN-KEYWORD,lifeafter
   - DOMAIN-SUFFIX,lifeafter.game
