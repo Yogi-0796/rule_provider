@@ -1,5 +1,5 @@
 payload:
- # GARENA
+#GarenaFF
   - DOMAIN-SUFFIX,version.common.freefiremobile.com
   - DOMAIN-SUFFIX,csoversea.castle.freefiremobile.com
   - DOMAIN-SUFFIX,client.common.freefiremobile.com
