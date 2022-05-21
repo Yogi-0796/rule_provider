@@ -83,3 +83,14 @@ payload:
   - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twttr.com
   - DOMAIN-SUFFIX,twitter.jp
+  # > TikTok
+  - PROCESS-NAME,com.ss.android.ugc.trill
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-KEYWORD,tiktokcdn-
