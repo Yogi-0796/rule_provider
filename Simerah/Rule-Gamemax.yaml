@@ -17,11 +17,6 @@ payload:
   - DOMAIN-SUFFIX,lifeafter.game
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,gdl.netease.com
-# LGR
-  - DOMAIN-KEYWORD,LINE Let's Get Rich
-  - DOMAIN-SUFFIX,line-apps.com
-  - DOMAIN-SUFFIX,scdn.line-apps.com
-  - DOMAIN-SUFFIX,ig-growthy.line-apps.com
 # BlackDesertMobile
   - DOMAIN-KEYWORD,Black Desert Mobile
   - DOMAIN-SUFFIX,blackdesertm.com
