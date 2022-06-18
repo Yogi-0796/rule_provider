@@ -1,0 +1,24 @@
+  Gaming:
+    type: http
+    behavior: classical
+    path: "./rule_provider/rulegame.yaml"
+    url: https://raw.githubusercontent.com/Yogi-0796/rule_provider/main/ruleGamemax.yaml
+    interval: 86400
+  Direct:
+    type: http
+    behavior: classical
+    path: "./rule_provider/rulestreaming.yaml"
+    url: https://raw.githubusercontent.com/Yogi-0796/rule_provider/main/ruleDirect.yaml
+    interval: 86400
+  Sosmed:
+    type: http
+    behavior: domain
+    path: "./rule_provider/rulestreaming.yaml"
+    url: https://raw.githubusercontent.com/Yogi-0796/rule_provider/main/ruleGlobalSosmed.yaml
+    interval: 86400
+  Streaming:
+    type: http
+    behavior: classical
+    path: "./rule_provider/rulestreaming.yaml"
+    url: https://raw.githubusercontent.com/Yogi-0796/rule_provider/main/ruleGlobalStreaming.yaml
+    interval: 86400
