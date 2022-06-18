@@ -20,29 +20,11 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,tiktokcdn-
-# FreeFire
-  - DOMAIN-SUFFIX,version.common.freefiremobile.com
-  - DOMAIN-SUFFIX,csoversea.castle.freefiremobile.com
-  - DOMAIN-SUFFIX,client.common.freefiremobile.com
-  - DOMAIN-SUFFIX,d.network.freefiremobile.com
-  - DOMAIN-SUFFIX,freefiremobile-a.akamaihd.net
-  - DOMAIN-SUFFIX,id.event.freefiremobile.com
-  - DOMAIN-SUFFIX,dl.wsu.freefiremobile.com
-  - DOMAIN-SUFFIX,login.common.freefiremobile.com
-  - DOMAIN-SUFFIX,bling2.midasplayer.com
-  - DOMAIN-SUFFIX,dl.castle.freefiremobile.com
-  - DOMAIN-SUFFIX,ff.garena.com
-  - DOMAIN-SUFFIX,garena.com
-# Lifeafter
+  # Lifeafter
   - DOMAIN-KEYWORD,lifeafter
   - DOMAIN-SUFFIX,lifeafter.game
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,gdl.netease.com
-# LGR
-  - DOMAIN-KEYWORD,LINE Let's Get Rich
-  - DOMAIN-SUFFIX,line-apps.com
-  - DOMAIN-SUFFIX,scdn.line-apps.com
-  - DOMAIN-SUFFIX,ig-growthy.line-apps.com
 # BlackDesertMobile
   - DOMAIN-KEYWORD,Black Desert Mobile
   - DOMAIN-SUFFIX,blackdesertm.com
@@ -142,7 +124,6 @@ payload:
   - DOMAIN-SUFFIX,aihelp.net
   - DOMAIN-SUFFIX,cdn.aihelp.net
   - DOMAIN-SUFFIX,pv.sohu.com
-  - DOMAIN-SUFFIX,newlogin.ml.youngjoygame.com
   - DOMAIN-SUFFIX,ip.ml.youngjoygame.com
   - DOMAIN-SUFFIX,report.ml.youngjoygame.com
   - IP-CIDR,4.59.37.1/32
@@ -352,7 +333,6 @@ payload:
   - DST-PORT,5057
   - DST-PORT,5058
   - DST-PORT,5153
-  - DST-PORT,5228
   - DST-PORT,5500
   - DST-PORT,5501
   - DST-PORT,5502
@@ -670,7 +650,6 @@ payload:
   - DST-PORT,30102
   - DST-PORT,30103
   - DST-PORT,30104
-  - DST-PORT,30105
   - DST-PORT,30106
   - DST-PORT,30107
   - DST-PORT,30108
@@ -866,4 +845,3 @@ payload:
   - DST-PORT,30298
   - DST-PORT,30299
   - DST-PORT,30300
-
