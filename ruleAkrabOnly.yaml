@@ -1,5 +1,9 @@
 #Thank to Bang Helmi Amirudin
 payload:
+  - DOMAIN-SUFFIX,cms-development.s3.ap-southeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,ujm.hansel.io
+  - DOMAIN-SUFFIX,in.appcenter.ms
+  - DOMAIN-SUFFIX,ciam-rajaampat.xl.co.id
   # > WHATSAPP
   - DOMAIN-KEYWORD,whatsapp.com
   - DOMAIN-KEYWORD,whatsapp.net
