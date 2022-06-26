@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,mmg.whatsapp.net
   - DOMAIN-SUFFIX,media.fbdj2-1.fna.whatsapp.net
   - DOMAIN-SUFFIX,media-xsp1-2.cdn.whatsapp.net
-  - DOMAIN,graph.facebook.com
   - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-SUFFIX,whatsapp.biz
   - DOMAIN-SUFFIX,whatsapp.com
