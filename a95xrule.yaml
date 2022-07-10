@@ -18,4 +18,4 @@ payload:
   - '+.youtube.com'
   - '+.s.youtube.com'
   - '+.youtubei.googleapis.com'
-  
+  - '+.ytimg.com'
