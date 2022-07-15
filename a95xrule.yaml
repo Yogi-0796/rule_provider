@@ -132,8 +132,8 @@ payload:
   - DOMAIN-KEYWORD,spotify.com
   - DOMAIN-KEYWORD,-spotify-com
   # > YouTubeMusic
-  - PROCESS-NAME,com.google.android.apps.youtube.music
-  - PROCESS-NAME,com.google.android.youtube.tvmusic
+ # - PROCESS-NAME,com.google.android.apps.youtube.music
+ # - PROCESS-NAME,com.google.android.youtube.tvmusic
   # > Disney+
   - PROCESS-NAME,com.disney.disneyplus
   - DOMAIN-SUFFIX,bamgrid.com
@@ -184,20 +184,20 @@ payload:
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,dfp6rglgjqszk.cloudfront.net
   # > YouTube
-  - PROCESS-NAME,com.google.android.youtube
-  - PROCESS-NAME,com.google.android.youtube.tv
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,withyoutube.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,youtubeeducation.com
-  - DOMAIN-SUFFIX,youtubegaming.com
-  - DOMAIN-SUFFIX,youtubekids.com
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN,youtubei.googleapis.com
-  - DOMAIN,yt3.ggpht.com
+#  - PROCESS-NAME,com.google.android.youtube
+#  - PROCESS-NAME,com.google.android.youtube.tv
+#  - DOMAIN-SUFFIX,googlevideo.com
+#  - DOMAIN-SUFFIX,withyoutube.com
+#  - DOMAIN-SUFFIX,youtu.be
+#  - DOMAIN-SUFFIX,youtube.com
+#  - DOMAIN-SUFFIX,youtubeeducation.com
+#  - DOMAIN-SUFFIX,youtubegaming.com
+#  - DOMAIN-SUFFIX,youtubekids.com
+#  - DOMAIN-SUFFIX,youtube-nocookie.com
+#  - DOMAIN-SUFFIX,yt.be
+#  - DOMAIN-SUFFIX,ytimg.com
+#  - DOMAIN,youtubei.googleapis.com
+#  - DOMAIN,yt3.ggpht.com
   #Vidio
   - DOMAIN-KEYWORD,-vidio-com #Keyword Streaming
   - DOMAIN-KEYWORD,-vidio.akamaized.net
